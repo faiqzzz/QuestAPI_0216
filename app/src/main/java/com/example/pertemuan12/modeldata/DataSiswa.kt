@@ -7,5 +7,5 @@ data class DataSiswa(
     val id: Int,
     val nama: String,
     val alamat: String,
-    val telpon: String
+    val telfon: String
 )
